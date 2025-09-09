@@ -9,7 +9,7 @@ O projeto foi um excelente exercício para aprimorar o domínio de:
 * **Efeitos de transição** em botões para uma experiência de usuário mais dinâmica.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/WebsiteComida-repositorio/
 
 ## 📂 Estrutura do projeto
 /FoodDeliveryWebsite
